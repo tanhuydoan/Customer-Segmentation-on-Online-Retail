@@ -1,3 +1,2 @@
 # Customer-Segmentation-using-RFM
-Using RFM to classify Online Retailing buyers 
-Customer Segmentation by using RFM and atempt to optimize the result with Kmeans, DBSCAN 
+Using RFM model to classify Online Retailing buyers and attempt to optimize the result by using Kmeans and DBSCAN
